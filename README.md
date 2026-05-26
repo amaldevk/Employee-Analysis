@@ -1,10 +1,6 @@
 # 📊 ABC Company Employee Analysis
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-purple)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-red)
+Python | Pandas | NumPy | Matplotlib | Seaborn
 
 ---
 
